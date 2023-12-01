@@ -33,8 +33,8 @@ import {
 import NftList from '../components/NftList';
 import WithSubnavigation from '../components/Navbar';
 import OwnerList from '../components/OwnerList';
-// import Airdrop from '../components/Airdrop';
-// import CreateCompressed from '../components/CreateCompressed';
+import Airdrop from '../components/Airdrop';
+import CreateCompressed from '../components/CreateCompressed';
 import CreateNAirdrop from '../components/CreateNAirdrop';
 
 const Home: NextPage = () => {
